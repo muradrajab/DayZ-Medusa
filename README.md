@@ -15,9 +15,11 @@
 - Unzip to any folder on your desktop
 - Open the Loader as an administrator
 - Customize it for yourself and have fun!
-</div>
+
 
 
 - Medusa Team is one of the best developers in the field of software development!
+
+</div>
 
 
